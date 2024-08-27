@@ -12,7 +12,7 @@ contract Fundraiser {
         uint amountRaised;
         bool ended;
     }
-
+//hi
     // State variables
     Campaign[] public campaigns;
     address public owner;
